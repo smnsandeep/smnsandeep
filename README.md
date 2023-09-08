@@ -11,6 +11,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SmnSandeep) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sandeep-suman/)
 
+  
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=smnsandeep&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
 
 <!--
 **smnsandeep/smnsandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
