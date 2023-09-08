@@ -4,7 +4,8 @@
 💻 dev | coder | wannbe creator.\
 🌟 Let's connect and craft amazing tech!
 
-![My Skills](https://skillicons.dev/icons?i=kotlin,js,python,go,flutter,react,tailwind,firebase,gcp,java&perline=4)
+![My Skills](https://skillicons.dev/icons?i=kotlin,js,python,go,java)\
+![My Skills](https://skillicons.dev/icons?i=flutter,react,tailwind,firebase,gcp)
 
 ### Connect with me
 
