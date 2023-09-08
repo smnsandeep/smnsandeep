@@ -5,7 +5,7 @@
 🌟 Let's connect and craft amazing tech!
 
 ![My Skills](https://skillicons.dev/icons?i=kotlin,js,python,go,java)\
-![My Skills](https://skillicons.dev/icons?i=flutter,react,tailwind,firebase,gcp)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,react,tailwind,firebase,gcp)
 
 ### Connect with me
 
