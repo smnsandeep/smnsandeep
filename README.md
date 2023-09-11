@@ -2,7 +2,7 @@
 
 🚀 Tech enthusiast exploring the code universe.\
 💻 dev | coder | wannbe creator.\
-🌟 Let's connect and craft amazing tech!
+🌟 You are invited to add to https://github.com/smnsandeep/SinsOfADeveloper
 
 ![My Skills](https://skillicons.dev/icons?i=kotlin,js,python,go,java)\
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,react,tailwind,firebase,gcp)
